@@ -1,6 +1,8 @@
 # 🌱 PixelKale - KaleCraft
 
-**KaleCraft** is the first immersive blockchain agriculture experience on Stellar. Players cultivate, mine, and harvest KALE tokens while enjoying a modern pixel art interface with dynamic day/night themes. It combines real blockchain technology with an interactive and addictive farming game.
+**PixelKale** is the first immersive blockchain agriculture experience on Stellar. Players cultivate, mine, and harvest KALE tokens while enjoying a modern pixel art interface with dynamic day/night themes. It combines real blockchain technology with an interactive and addictive farming game.
+
+> **Inspired by Ben Wallet's ecosystem** - Built on the same KALE infrastructure with enhanced gaming mechanics
 
 ## 🎮 Features
 
@@ -60,10 +62,12 @@ npm start
 
 ### Smart Contract Integration
 
-The game integrates with the official KALE Farm smart contract:
+The game integrates with the official KALE ecosystem contracts:
 
+- **KALE Homestead (Mainnet)**: `CDL74RF5BLYR2YBLCCI7F5FB6TPSCLKEJUBSD2RSVWZ4YHF3VMFAIGWA`
+- **KALE Tractor**: `CBGSBKYMYO6OMGHQXXNOBRGVUDFUDVC2XLC3SXON5R2SNXILR7XCKKY3`
+- **KALE SAC Contract**: `CB23WRDQWGSP6YPMY4UV5C4OW5CBTXKYN3XEATG7KJEZCXMJBYEHOUOV`
 - **Testnet Contract**: `CDSWUUXGPWDZG76ISK6SUCVPZJMD5YUV66J2FXFXFGDX25XKZJIEITAO`
-- **Mainnet Contract**: `CDL74RF5BLYR2YBLCCI7F5FB6TPSCLKEJUBSD2RSVWZ4YHF3VMFAIGWA`
 
 ## 🛠️ Development
 
@@ -193,6 +197,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - **KALE Farm Contract**: [kalepail/KALE-sc](https://github.com/kalepail/KALE-sc)
+- **Ben Wallet Ecosystem**: [Ben Wallet Architecture](https://ben-wallet.gitbook.io/ben-wallet/sdlc/development/architecture/context) for KALE infrastructure inspiration
+- **Launchtube API**: [launchtube.xyz](https://launchtube.xyz/) for blockchain integration
 - **Stellar Foundation**: For the amazing blockchain platform
 - **Community**: All the farmers and developers who make this possible
 
